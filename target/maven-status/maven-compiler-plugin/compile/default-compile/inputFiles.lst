@@ -1,0 +1,7 @@
+/Users/kilhan/Documents/Development/aws-sdk-test/kinesis-stream-jjouhiu-milk/stockTradesConsumer/src/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessor.java
+/Users/kilhan/Documents/Development/aws-sdk-test/kinesis-stream-jjouhiu-milk/stockTradesConsumer/src/com/amazonaws/services/kinesis/samples/stocktrades/utils/CredentialUtils.java
+/Users/kilhan/Documents/Development/aws-sdk-test/kinesis-stream-jjouhiu-milk/stockTradesConsumer/src/com/amazonaws/services/kinesis/samples/stocktrades/model/StockTrade.java
+/Users/kilhan/Documents/Development/aws-sdk-test/kinesis-stream-jjouhiu-milk/stockTradesConsumer/src/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessorFactory.java
+/Users/kilhan/Documents/Development/aws-sdk-test/kinesis-stream-jjouhiu-milk/stockTradesConsumer/src/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradesProcessor.java
+/Users/kilhan/Documents/Development/aws-sdk-test/kinesis-stream-jjouhiu-milk/stockTradesConsumer/src/com/amazonaws/services/kinesis/samples/stocktrades/utils/ConfigurationUtils.java
+/Users/kilhan/Documents/Development/aws-sdk-test/kinesis-stream-jjouhiu-milk/stockTradesConsumer/src/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockStats.java

@@ -15,6 +15,19 @@
                     <target>1.7</target>
                 </configuration>
             </plugin>
+ 			<plugin>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.0.2</version>
+                <configuration>
+                    <archive>
+                    <manifest>
+                        <mainClass>com.amazonaws.services.kinesis.samples.stocktrades.processor.StockTradesProcessor</mainClass>  
+                    </manifest>
+                    </archive>
+                </configuration>
+             </plugin>  
+
+
         </plugins>
     </build>
     <name>KinesisConsumerLibrary Sample Application</name>
